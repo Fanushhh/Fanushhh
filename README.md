@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fanush Mihailescu
 =========================================================================================================================================
 
-Self-Thought Web Developer
+Self-Taught Web Developer
 --------------------------
 
 I'm currently 1 year into learning the ways of Web Development, creating new and exciting things as I go along. I'm excited about the field and looking forward to raising my level of knowledge.
